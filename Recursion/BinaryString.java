@@ -18,7 +18,6 @@ public class BinaryString {
         // else{
         //     printBinarystring(n-1, 0, str.append("0"));
         // }
-      
         //inshort
         printBinarystring(n-1, 0, str+"0");
         if(lastPlace == 0)
